@@ -1,4 +1,4 @@
-# smart_redis_storage <sup>0.0.1</sup>
+# smart_redis_storage <sup>0.0.2</sup>
 Convenient work with Redis.
 
 ***
