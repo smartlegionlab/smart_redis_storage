@@ -1,5 +1,5 @@
-# smart_redis_storage <sup>0.0.2</sup>
-Convenient work with Redis.
+# smart_redis_storage <sup>0.1.0</sup>
+Redis storage manager.
 
 ***
 
@@ -16,6 +16,29 @@ Convenient work with Redis.
 ***
 
 Author and developer: ___A.A Suvorov___
+
+***
+
+## Help:
+
+`pip install smart-redis-storage`
+
+> CRUD (Create, Read, Update, Delete) for Redis.
+> Used in a large corporate project in a multi-user CRM (Django) to store intermediate data.
+> I used user ids as uniq_key.
+> 
+> 
+
+```python
+from smart_redis_storage.redis_storage import RedisStorageManager
+
+user_id = 1
+redis_storage_manager = RedisStorageManager()
+redis_storage_manager.set_data(uniq_key=user_id, key='data', value={'id': 1, 'age': 33})
+data = redis_storage_manager.get_data(uniq_key=user_id, key='data')
+print(data) # {'id': 1, 'age': 33}
+print(type(data)) # <class 'dict'>
+```
 
 ***
 
