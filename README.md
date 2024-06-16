@@ -1,4 +1,4 @@
-# smart_redis_storage <sup>0.1.0</sup>
+# smart_redis_storage <sup>0.1.1</sup>
 Redis storage manager.
 
 ***
@@ -15,7 +15,7 @@ Redis storage manager.
 
 ***
 
-Author and developer: ___A.A Suvorov___
+Author and developer: ___A.A. Suvorov___
 
 ***
 
@@ -61,6 +61,6 @@ print(type(data)) # <class 'dict'>
     --------------------------------------------------------
     Licensed under the terms of the BSD 3-Clause License
     (see LICENSE for details).
-    Copyright © 2018-2024, A.A Suvorov
+    Copyright © 2018-2024, A.A. Suvorov
     All rights reserved.
     --------------------------------------------------------

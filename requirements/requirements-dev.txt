@@ -1,0 +1,4 @@
+setuptools
+wheel
+twine
+redis~=5.0.4
