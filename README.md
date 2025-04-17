@@ -3,6 +3,7 @@ Redis storage manager.
 
 ***
 
+[![PyPI Downloads](https://static.pepy.tech/badge/smart-redis-storage)](https://pepy.tech/projects/smart-redis-storage)
 ![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smart_redis_storage)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/smart_redis_storage?label=pypi%20downloads)](https://pypi.org/project/smart_redis_storage/)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smart_redis_storage)](https://github.com/smartlegionlab/smart_redis_storage/)
