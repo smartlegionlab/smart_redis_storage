@@ -1,18 +1,18 @@
-# smart_redis_storage <sup>0.1.1</sup>
+# smart-redis-storage <sup>0.1.2</sup>
 Redis storage manager.
 
 ***
 
 [![PyPI Downloads](https://static.pepy.tech/badge/smart-redis-storage)](https://pepy.tech/projects/smart-redis-storage)
-![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smart_redis_storage)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/smart_redis_storage?label=pypi%20downloads)](https://pypi.org/project/smart_redis_storage/)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smart_redis_storage)](https://github.com/smartlegionlab/smart_redis_storage/)
-[![GitHub](https://img.shields.io/github/license/smartlegionlab/smart_redis_storage)](https://github.com/smartlegionlab/smart_redis_storage/blob/master/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/smart_redis_storage)](https://pypi.org/project/smart_redis_storage)
-[![PyPI - Format](https://img.shields.io/pypi/format/smart_redis_storage)](https://pypi.org/project/smart_redis_storage)
-[![GitHub Repo stars](https://img.shields.io/github/stars/smartlegionlab/smart_redis_storage?style=social)](https://github.com/smartlegionlab/smart_redis_storage/)
-[![GitHub watchers](https://img.shields.io/github/watchers/smartlegionlab/smart_redis_storage?style=social)](https://github.com/smartlegionlab/smart_redis_storage/)
-[![GitHub forks](https://img.shields.io/github/forks/smartlegionlab/smart_redis_storage?style=social)](https://github.com/smartlegionlab/smart_redis_storage/)
+![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smart-redis-storage)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/smart-redis-storage?label=pypi%20downloads)](https://pypi.org/project/smart-redis-storage/)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smart-redis-storage)](https://github.com/smartlegionlab/smart-redis-storage/)
+[![GitHub](https://img.shields.io/github/license/smartlegionlab/smart-redis-storage)](https://github.com/smartlegionlab/smart-redis-storage/blob/master/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/smart-redis-storage)](https://pypi.org/project/smart-redis-storage)
+[![PyPI - Format](https://img.shields.io/pypi/format/smart-redis-storage)](https://pypi.org/project/smart-redis-storage)
+[![GitHub Repo stars](https://img.shields.io/github/stars/smartlegionlab/smart-redis-storage?style=social)](https://github.com/smartlegionlab/smart-redis-storage/)
+[![GitHub watchers](https://img.shields.io/github/watchers/smartlegionlab/smart-redis-storage?style=social)](https://github.com/smartlegionlab/smart-redis-storage/)
+[![GitHub forks](https://img.shields.io/github/forks/smartlegionlab/smart-redis-storage?style=social)](https://github.com/smartlegionlab/smart-redis-storage/)
 
 ***
 
